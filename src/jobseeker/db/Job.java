@@ -13,6 +13,7 @@ public class Job implements Serializable {
 	private static final long serialVersionUID = -1077803972062837560L;
 		//POJO
 		//Plain Old Java Object
+	private float lol;
 	private int jaja;
 	private Integer id;
 	private String name; 
